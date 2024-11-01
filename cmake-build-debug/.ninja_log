@@ -1,0 +1,5 @@
+# ninja log v5
+3	376	7521935006521599	CMakeFiles/SQLiteManager.dir/main.cpp.obj	4425cd83bd9313d2
+377	503	7521935007760655	SQLiteManager.exe	7e4237eb7cabd329
+1	240	7521958088206128	build.ninja	c2c398f0ab8b087c
+4	4807	7521915863282969	CMakeFiles/SQLiteManager.dir/sqlite/sqlite3.c.obj	630ab49a469dbcf6

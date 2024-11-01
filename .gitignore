@@ -1,0 +1,39 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# CLion specific files
+.idea/
+cmake-build-*/  # Build directories created by CLion
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+
+
+
+# SQLite database file
+*.db
+*.sqlite
+
+
+
+# Ignore build output directories
+/build/
